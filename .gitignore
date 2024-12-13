@@ -1,0 +1,9 @@
+
+# golang
+bin/
+tmp/
+go.work*
+
+# IDE
+.idea/
+.vscode/
